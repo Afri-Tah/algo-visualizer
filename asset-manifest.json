@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/algo-visualizer/static/js/main.462d1e59.js",
+    "index.html": "/algo-visualizer/index.html",
+    "main.462d1e59.js.map": "/algo-visualizer/static/js/main.462d1e59.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.462d1e59.js"
+  ]
+}
