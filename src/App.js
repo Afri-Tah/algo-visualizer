@@ -1,4 +1,4 @@
-import { useState, useEffect, useRef, useCallback } from "react";
+import React, { useState, useEffect, useRef, useCallback } from "react";
 
 const P = {
   bg:"#0a0a0f",panel:"#0f0f1a",border:"#1e2a4a",
